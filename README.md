@@ -14,6 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/_RYK0Ae4XakAAAAi/vibing-cool-dogs.gif">
  </div>
   
  ##
