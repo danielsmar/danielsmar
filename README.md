@@ -1,4 +1,4 @@
-### Fala Ae, sou Daniel Marculano 👋
+### Fala ae, sou o Daniel's 👋
 
 <div align="center">
   <a href="https://github.com/danielsmar">
