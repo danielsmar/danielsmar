@@ -55,9 +55,12 @@
 ###
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielsmar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="230" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsmar&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&order=2" height="230" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielsmar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="200" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsmar&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&order=2" height="200" alt="languages graph" />
 </div>
+
+
 
 ###
 
