@@ -26,6 +26,20 @@
 
 ###
 
+
+
+###
+
+<h3 align="left">🔥   Minhas estatísticas:</h3>
+
+###
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielsmar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="180" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsmar&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&order=2" height="180" alt="languages graph" />
+</div>
+
 <h3 align="left">🛠 Linguagens e Ferramentas:</h3>
 
 ###
@@ -47,20 +61,6 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   Minhas estatísticas:</h3>
-
-###
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielsmar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsmar&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
-</div>
-
-
 
 ###
 
