@@ -18,15 +18,11 @@
 
 ###
 
-<img align="right" height="300" src="https://camo.githubusercontent.com/1c9c5bce1462bbacec2be1eed40c131e5c5aa71e18a15a22d106721a49685b56/68747470733a2f2f632e74656e6f722e636f6d2f5f52594b3041653458616b41414141692f766962696e672d636f6f6c2d646f67732e676966"  />
-
-###
-
 <h3 align="left">👩‍💻  Sobre mim:</h3>
 
 ###
 
-<p align="left">👋 Olá, sou Daniel Marculano!<br><br>🎓 Estudante do 8º período de Ciência da Computação<br><br>💻 Desenvolvedor Front-End focado em React, Tailwind CSS, TypeScript e Desenvolvimento Web<br><br>🚀 Atualmente, estou desenvolvendo projetos para aprimorar minhas habilidades e compartilhar minha jornada no mundo do desenvolvimento.</p>
+<p align="left">👋 Olá, sou Daniel Marculano!<br><br>🎓 Estudante do 8º período de Ciência da Computação<br><br>💻 Desenvolvedor Front-End com expertise em React, TypeScript e Tailwind CSS, focado em desenvolvimento web moderno.<br></p>
 
 ###
 
@@ -60,7 +56,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielsmar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true&order=1" height="230" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsmar&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="230" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielsmar&locale=pt-br&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&order=2" height="230" alt="languages graph"  />
 </div>
 
 ###
